@@ -44,7 +44,7 @@ Create a mentorship-eligibility table that holds the current employees who were 
 
 ## How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-![](Silver_tsunami/Visuals/w%20silver%20tsunami%20code.png) ![](Silver_tsunami/Visuals/w%20silver%20tsunami%20code.png)
+![](Silver_tsunami/Visuals/w%20silver%20tsunami%20code.png) ![](Silver_tsunami/Visuals/With%20silver%20tsunami.png)
 
 To give us a bigger understanding on how much of an impact the silver tsunami will have. The table above shows the current amount of employeee's per title. 
 
