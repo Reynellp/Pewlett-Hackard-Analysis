@@ -59,7 +59,7 @@ To give us a bigger understanding on how much of an impact the silver tsunami wi
 
 ## Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-![](Silver_tsunami/Visuals/Mentor%20count%20code.png)  ![](Silver_tsunami/Visuals/Mentorship%20Eligibility%20count.png)
+![](Silver_tsunami/Visuals/Mentor%20count%20code.png)  ![](Silver_tsunami/Visuals/With%20silver%20tsunami.png)
 
 Physical Count of the eligible mentors
 
